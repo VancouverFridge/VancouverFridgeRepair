@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Grota-Bold';
+    src: url('Fonts/Grota\ Sans\ Alt\ Bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Grota-Reg';
+    src: url('Fonts/GrotaSansAltRd-Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'GrotaRd-Bold';
+    src: url('Fonts/GrotaSansRd-Bold.otf') format('opentype');
+}
+@font-face {
+    font-family: 'GrotaRd-Book';
+    src: url('Fonts/GrotaSansRd-Book.otf') format('opentype');
+}
+@font-face {
+    font-family: 'GrotaRd-ExtraBold';
+    src: url('Fonts/GrotaSansRd-ExtraBold.otf') format('opentype');
+}
+@font-face {
+    font-family: 'GrotaRd-Heavy';
+    src: url('Fonts/GrotaSansRd-Heavy.otf') format('opentype');
+}
+@font-face {
+    font-family: 'GrotaRd-Reg';
+    src: url('Fonts/GrotaSansRd-Regular.otf') format('opentype');
+}
+@font-face {
+    font-family: 'GrotaRd-SemiBold';
+    src: url('Fonts/GrotaSansRd-SemiBold.otf') format('opentype');
+}
